@@ -18,7 +18,7 @@ import java.util.Scanner;
 				
 		System.out.print("Enter a word: ");
 		word1 = input.nextLine();
-		System.out.print("Enter a second word: ");
+		System.out.print("Enter a second word:fghgfhjghdjghjhg ");
 		word2 = input.nextLine();
 		input.close();
 		
